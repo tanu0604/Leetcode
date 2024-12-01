@@ -1,4 +1,4 @@
-//https://leetcode.com/problems/check-if-n-and-its-double-exist/description/?envType=daily-question&envId=2024-12-01
+//https://leetcode.com/problems/check-if-n-and-its-double-exist/description/
 
 package Arrays;
 
